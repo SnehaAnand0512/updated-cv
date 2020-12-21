@@ -2,7 +2,7 @@ body{
     margin:0;
     text-align: center;
     font-family: 'Merriweather', serif; 
-    width:100%;
+   position:absolute;
 }
 
 hr{
