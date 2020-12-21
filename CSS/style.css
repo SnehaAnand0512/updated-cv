@@ -48,14 +48,17 @@ div{
     background-color: rgb(182, 166, 182);
     position: relative;
     padding-top: 100px;
+    width: 100%;
 }
 .middle-container{
     background-color: rgb(240, 236, 240);
+    width: 100%;
        
 }
 .bottom-container{
     background-color: rgb(155, 80, 155); 
     padding:50px 0px 20px;
+    width: 100%;
     
 }
 .skill-row{
