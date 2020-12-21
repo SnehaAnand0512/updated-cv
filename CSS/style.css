@@ -101,7 +101,9 @@ a{
 a:hover{
     color: #d6c7d2;
 }
-
+.mountain{
+    position:relative;
+}
 .top-cloud{
     position: absolute;
     right: 100px;
